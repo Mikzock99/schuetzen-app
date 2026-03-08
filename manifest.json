@@ -1,0 +1,21 @@
+{
+  "name": "Schützenjugend Ergebnisse",
+  "short_name": "SchützenApp",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0B1121",
+  "theme_color": "#1A253C",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icons/wappen.jpg",
+      "type": "image/jpeg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icons/wappen.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512"
+    }
+  ]
+}
